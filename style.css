@@ -1,8 +1,17 @@
-.body{
+
+
+body{
     background-color: #750606;
     padding: 10px 10px 10px 10px;
+    text-align: center;
 }
 
+h1 {
+    color:aliceblue;
+    font-size: 4rem;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
 
 .column{
     text-align: center;
@@ -12,14 +21,20 @@
     border-radius: 50px;
 }
 
-.button{
+button{
     border-radius: 20px;
-    background-color: grey;
+    background-color: rgb(255, 255, 255);
     text-align: center;
-    color: black;
-    padding: 10px 10px 10px 10px;
+    color: rgb(0, 0, 0);
+    padding: 20px 20px 20px 20px;
+    font-size: 2rem;
+    margin-left: 50px;
 }
 
+.button{
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+}
 
 
 
