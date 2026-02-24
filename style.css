@@ -1,0 +1,23 @@
+.body{
+    background-color: #750606;
+    padding: 10px 10px 10px 10px;
+}
+
+
+.column{
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+    background-color: #8f2828;
+    border-radius: 50px;
+}
+
+.button{
+    border-radius: 20px;
+    background-color: grey;
+    text-align: center;
+    color: black;
+    padding: 10px 10px 10px 10px;
+
+}
+
